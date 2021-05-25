@@ -4,6 +4,7 @@ We have tried to built an image classifier that takes an image as input from the
 
 Creation of Dataset:
 We created the dataset on our own.We used selenium inorder to do web scraping and download the images of mammootty and mohanlal.The code for this resides in main.py.This file has to be run twice.One for mohanlal and other for mamootty.
+Dataset Link :https://www.kaggle.com/ameyajames/mamooty-vs-mohanlal
 
 We used pytorch  generate the main ML model.The test accuracy that we got was 73%.We ran a total of 15 epochs and saved the best one from that as the best checkpoint model.You can view this in the bestcheckpoint.model file.
 The code for the model can be found inside modelbuilding.py.
