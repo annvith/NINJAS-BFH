@@ -4,7 +4,7 @@ We have tried to built an image classifier that takes an image as input from the
 
 #TEAM MEMBERS:
 1.Ameya Lizbeth James(https://github.com/ameyalizbeth)
-2.Hira Fathima ()
+2.Hira Fathima (https://github.com/Hirafathima)
 3.Ann Vithayathil(https://github.com/annvith/)
 
 #Team ID:
